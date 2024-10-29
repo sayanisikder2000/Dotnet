@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest2_SayaniSikder\\Test2_Program1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116617C9-C673-4415-9E80-2D72637CB55B}|Test2_Program1.csproj|c:\\sayani\\batch7_exam_sayanisikder\\csharptest2_sayanisikder\\test2_program1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116617C9-C673-4415-9E80-2D72637CB55B}|Test2_Program1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116617C9-C673-4415-9E80-2D72637CB55B}|Test2_Program1.csproj|c:\\sayani\\batch7_exam_sayanisikder\\csharptest2_sayanisikder\\test2_program1\\userprogramcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116617C9-C673-4415-9E80-2D72637CB55B}|Test2_Program1.csproj|solutionrelative:userprogramcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProgramCode.cs",
+              "DocumentMoniker": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest2_SayaniSikder\\Test2_Program1\\UserProgramCode.cs",
+              "RelativeDocumentMoniker": "UserProgramCode.cs",
+              "ToolTip": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest2_SayaniSikder\\Test2_Program1\\UserProgramCode.cs",
+              "RelativeToolTip": "UserProgramCode.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:29:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest2_SayaniSikder\\Test2_Program1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest2_SayaniSikder\\Test2_Program1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:28:31.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

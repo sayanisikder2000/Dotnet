@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|c:\\sayani\\batch7_exam_sayanisikder\\csharptest1_sayanisikder\\asst1_sayani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|solutionrelative:asst1_sayani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|c:\\sayani\\batch7_exam_sayanisikder\\csharptest1_sayanisikder\\csharptest1_sayanisikder.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|solutionrelative:csharptest1_sayanisikder.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|c:\\sayani\\batch7_exam_sayanisikder\\csharptest1_sayanisikder\\asst5_sayani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|solutionrelative:asst5_sayani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|c:\\sayani\\batch7_exam_sayanisikder\\csharptest1_sayanisikder\\asst4_sayani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|solutionrelative:asst4_sayani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|c:\\sayani\\batch7_exam_sayanisikder\\csharptest1_sayanisikder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|c:\\sayani\\batch7_exam_sayanisikder\\csharptest1_sayanisikder\\asst2_sayanisikder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A70E34-3362-438C-B85A-C0146DD6DE96}|CSharpTest1_SayaniSikder.csproj|solutionrelative:asst2_sayanisikder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSharpTest1_SayaniSikder",
+              "DocumentMoniker": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\CSharpTest1_SayaniSikder.csproj",
+              "RelativeDocumentMoniker": "CSharpTest1_SayaniSikder.csproj",
+              "ToolTip": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\CSharpTest1_SayaniSikder.csproj",
+              "RelativeToolTip": "CSharpTest1_SayaniSikder.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-28T07:41:20.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asst5_Sayani.cs",
+              "DocumentMoniker": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\Asst5_Sayani.cs",
+              "RelativeDocumentMoniker": "Asst5_Sayani.cs",
+              "ToolTip": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\Asst5_Sayani.cs",
+              "RelativeToolTip": "Asst5_Sayani.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:44:06.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asst4_Sayani.cs",
+              "DocumentMoniker": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\Asst4_Sayani.cs",
+              "RelativeDocumentMoniker": "Asst4_Sayani.cs",
+              "ToolTip": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\Asst4_Sayani.cs",
+              "RelativeToolTip": "Asst4_Sayani.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:16:16.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:37:18.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asst1_Sayani.cs",
+              "DocumentMoniker": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\Asst1_Sayani.cs",
+              "RelativeDocumentMoniker": "Asst1_Sayani.cs",
+              "ToolTip": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\Asst1_Sayani.cs",
+              "RelativeToolTip": "Asst1_Sayani.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T04:38:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Asst2_SayaniSikder.cs",
+              "DocumentMoniker": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\Asst2_SayaniSikder.cs",
+              "RelativeDocumentMoniker": "Asst2_SayaniSikder.cs",
+              "ToolTip": "C:\\Sayani\\Batch7_Exam_SayaniSikder\\CSharpTest1_SayaniSikder\\Asst2_SayaniSikder.cs",
+              "RelativeToolTip": "Asst2_SayaniSikder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:05:56.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.AssemblyInfoInputs.cache
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.AssemblyInfo.cs
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.csproj.CoreCompileInputs.cache
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\bin\Debug\net8.0\Batch07SayaniSikder.exe
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\bin\Debug\net8.0\Batch07SayaniSikder.deps.json
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\bin\Debug\net8.0\Batch07SayaniSikder.runtimeconfig.json
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\bin\Debug\net8.0\Batch07SayaniSikder.dll
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\bin\Debug\net8.0\Batch07SayaniSikder.pdb
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.dll
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\refint\Batch07SayaniSikder.dll
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.pdb
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.genruntimeconfig.cache
+C:\Users\SAYANI SIKDER\OneDrive\Desktop\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\ref\Batch07SayaniSikder.dll
+C:\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.AssemblyInfoInputs.cache
+C:\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.AssemblyInfo.cs
+C:\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.csproj.CoreCompileInputs.cache
+C:\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.dll
+C:\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\refint\Batch07SayaniSikder.dll
+C:\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.pdb
+C:\Sayani\Batch07SayaniSikder\bin\Debug\net8.0\Batch07SayaniSikder.exe
+C:\Sayani\Batch07SayaniSikder\bin\Debug\net8.0\Batch07SayaniSikder.deps.json
+C:\Sayani\Batch07SayaniSikder\bin\Debug\net8.0\Batch07SayaniSikder.runtimeconfig.json
+C:\Sayani\Batch07SayaniSikder\bin\Debug\net8.0\Batch07SayaniSikder.dll
+C:\Sayani\Batch07SayaniSikder\bin\Debug\net8.0\Batch07SayaniSikder.pdb
+C:\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\Batch07SayaniSikder.genruntimeconfig.cache
+C:\Sayani\Batch07SayaniSikder\obj\Debug\net8.0\ref\Batch07SayaniSikder.dll

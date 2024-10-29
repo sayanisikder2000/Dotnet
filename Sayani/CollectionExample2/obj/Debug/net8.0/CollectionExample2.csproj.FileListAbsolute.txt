@@ -1,0 +1,14 @@
+C:\Sayani\CollectionExample2\obj\Debug\net8.0\CollectionExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sayani\CollectionExample2\obj\Debug\net8.0\CollectionExample2.AssemblyInfoInputs.cache
+C:\Sayani\CollectionExample2\obj\Debug\net8.0\CollectionExample2.AssemblyInfo.cs
+C:\Sayani\CollectionExample2\obj\Debug\net8.0\CollectionExample2.csproj.CoreCompileInputs.cache
+C:\Sayani\CollectionExample2\bin\Debug\net8.0\CollectionExample2.exe
+C:\Sayani\CollectionExample2\bin\Debug\net8.0\CollectionExample2.deps.json
+C:\Sayani\CollectionExample2\bin\Debug\net8.0\CollectionExample2.runtimeconfig.json
+C:\Sayani\CollectionExample2\bin\Debug\net8.0\CollectionExample2.dll
+C:\Sayani\CollectionExample2\bin\Debug\net8.0\CollectionExample2.pdb
+C:\Sayani\CollectionExample2\obj\Debug\net8.0\CollectionExample2.dll
+C:\Sayani\CollectionExample2\obj\Debug\net8.0\refint\CollectionExample2.dll
+C:\Sayani\CollectionExample2\obj\Debug\net8.0\CollectionExample2.pdb
+C:\Sayani\CollectionExample2\obj\Debug\net8.0\CollectionExample2.genruntimeconfig.cache
+C:\Sayani\CollectionExample2\obj\Debug\net8.0\ref\CollectionExample2.dll

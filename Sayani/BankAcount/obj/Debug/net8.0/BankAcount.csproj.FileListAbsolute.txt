@@ -1,0 +1,14 @@
+C:\Sayani\BankAcount\bin\Debug\net8.0\BankAcount.exe
+C:\Sayani\BankAcount\bin\Debug\net8.0\BankAcount.deps.json
+C:\Sayani\BankAcount\bin\Debug\net8.0\BankAcount.runtimeconfig.json
+C:\Sayani\BankAcount\bin\Debug\net8.0\BankAcount.dll
+C:\Sayani\BankAcount\bin\Debug\net8.0\BankAcount.pdb
+C:\Sayani\BankAcount\obj\Debug\net8.0\BankAcount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sayani\BankAcount\obj\Debug\net8.0\BankAcount.AssemblyInfoInputs.cache
+C:\Sayani\BankAcount\obj\Debug\net8.0\BankAcount.AssemblyInfo.cs
+C:\Sayani\BankAcount\obj\Debug\net8.0\BankAcount.csproj.CoreCompileInputs.cache
+C:\Sayani\BankAcount\obj\Debug\net8.0\BankAcount.dll
+C:\Sayani\BankAcount\obj\Debug\net8.0\refint\BankAcount.dll
+C:\Sayani\BankAcount\obj\Debug\net8.0\BankAcount.pdb
+C:\Sayani\BankAcount\obj\Debug\net8.0\BankAcount.genruntimeconfig.cache
+C:\Sayani\BankAcount\obj\Debug\net8.0\ref\BankAcount.dll

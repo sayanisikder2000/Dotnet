@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ccccc\\Sayani\\Batch07SayaniSikder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0319B456-270B-4D83-AF5E-E9DB2208DF28}|Batch07SayaniSikder.csproj|d:\\ccccc\\sayani\\batch07sayanisikder\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0319B456-270B-4D83-AF5E-E9DB2208DF28}|Batch07SayaniSikder.csproj|solutionrelative:tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0319B456-270B-4D83-AF5E-E9DB2208DF28}|Batch07SayaniSikder.csproj|d:\\ccccc\\sayani\\batch07sayanisikder\\batch07sayanisikder.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0319B456-270B-4D83-AF5E-E9DB2208DF28}|Batch07SayaniSikder.csproj|solutionrelative:batch07sayanisikder.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0319B456-270B-4D83-AF5E-E9DB2208DF28}|Batch07SayaniSikder.csproj|d:\\ccccc\\sayani\\batch07sayanisikder\\linqtoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0319B456-270B-4D83-AF5E-E9DB2208DF28}|Batch07SayaniSikder.csproj|solutionrelative:linqtoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0319B456-270B-4D83-AF5E-E9DB2208DF28}|Batch07SayaniSikder.csproj|d:\\ccccc\\sayani\\batch07sayanisikder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0319B456-270B-4D83-AF5E-E9DB2208DF28}|Batch07SayaniSikder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tutorial.cs",
+              "DocumentMoniker": "D:\\ccccc\\Sayani\\Batch07SayaniSikder\\Tutorial.cs",
+              "RelativeDocumentMoniker": "Tutorial.cs",
+              "ToolTip": "D:\\ccccc\\Sayani\\Batch07SayaniSikder\\Tutorial.cs",
+              "RelativeToolTip": "Tutorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:42:54.49Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqToXml.cs",
+              "DocumentMoniker": "D:\\ccccc\\Sayani\\Batch07SayaniSikder\\LinqToXml.cs",
+              "RelativeDocumentMoniker": "LinqToXml.cs",
+              "ToolTip": "D:\\ccccc\\Sayani\\Batch07SayaniSikder\\LinqToXml.cs",
+              "RelativeToolTip": "LinqToXml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:40:16.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Batch07SayaniSikder",
+              "DocumentMoniker": "D:\\ccccc\\Sayani\\Batch07SayaniSikder\\Batch07SayaniSikder.csproj",
+              "RelativeDocumentMoniker": "Batch07SayaniSikder.csproj",
+              "ToolTip": "D:\\ccccc\\Sayani\\Batch07SayaniSikder\\Batch07SayaniSikder.csproj",
+              "RelativeToolTip": "Batch07SayaniSikder.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T09:21:03.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ccccc\\Sayani\\Batch07SayaniSikder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ccccc\\Sayani\\Batch07SayaniSikder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:43:50.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

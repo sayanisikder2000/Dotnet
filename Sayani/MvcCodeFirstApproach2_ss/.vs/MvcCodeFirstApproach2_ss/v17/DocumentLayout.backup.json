@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|c:\\users\\sayani\\source\\repos\\mvccodefirstapproach2_ss\\mvccodefirstapproach2_ss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|solutionrelative:mvccodefirstapproach2_ss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|c:\\users\\sayani\\source\\repos\\mvccodefirstapproach2_ss\\mvccodefirstapproach2_ss\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|solutionrelative:mvccodefirstapproach2_ss\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|c:\\users\\sayani\\source\\repos\\mvccodefirstapproach2_ss\\mvccodefirstapproach2_ss\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|solutionrelative:mvccodefirstapproach2_ss\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Migrations\\20241016122143_ProdCatInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcCodeFirstApproach2_ss\\Migrations\\20241016122143_ProdCatInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|c:\\users\\sayani\\source\\repos\\mvccodefirstapproach2_ss\\mvccodefirstapproach2_ss\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|solutionrelative:mvccodefirstapproach2_ss\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|c:\\users\\sayani\\source\\repos\\mvccodefirstapproach2_ss\\mvccodefirstapproach2_ss\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|solutionrelative:mvccodefirstapproach2_ss\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|c:\\users\\sayani\\source\\repos\\mvccodefirstapproach2_ss\\mvccodefirstapproach2_ss\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|solutionrelative:mvccodefirstapproach2_ss\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|c:\\users\\sayani\\source\\repos\\mvccodefirstapproach2_ss\\mvccodefirstapproach2_ss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|solutionrelative:mvccodefirstapproach2_ss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|c:\\users\\sayani\\source\\repos\\mvccodefirstapproach2_ss\\mvccodefirstapproach2_ss\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44CDFFD2-CCE5-485D-8229-C71DB9DA2581}|MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss.csproj|solutionrelative:mvccodefirstapproach2_ss\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach2_ss\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach2_ss\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:26:47.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach2_ss\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach2_ss\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:26:03.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241016122143_ProdCatInit.cs",
+              "DocumentMoniker": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Migrations\\20241016122143_ProdCatInit.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach2_ss\\Migrations\\20241016122143_ProdCatInit.cs",
+              "ToolTip": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Migrations\\20241016122143_ProdCatInit.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach2_ss\\Migrations\\20241016122143_ProdCatInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:21:43.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Program.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach2_ss\\Program.cs",
+              "ToolTip": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Program.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach2_ss\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:11:09.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach2_ss\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\appsettings.json",
+              "RelativeToolTip": "MvcCodeFirstApproach2_ss\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T12:08:51.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach2_ss\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\appsettings.Development.json",
+              "RelativeToolTip": "MvcCodeFirstApproach2_ss\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T12:08:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach2_ss\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach2_ss\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:07:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach2_ss\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Models\\Category.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach2_ss\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:06:00.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MvcCodeFirstApproach2_ss\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Sayani\\source\\repos\\MvcCodeFirstApproach2_ss\\MvcCodeFirstApproach2_ss\\Models\\Product.cs",
+              "RelativeToolTip": "MvcCodeFirstApproach2_ss\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:03:02.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

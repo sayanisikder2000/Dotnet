@@ -1,0 +1,14 @@
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\bin\Debug\net8.0\TopicDelegate.exe
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\bin\Debug\net8.0\TopicDelegate.deps.json
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\bin\Debug\net8.0\TopicDelegate.runtimeconfig.json
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\bin\Debug\net8.0\TopicDelegate.dll
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\bin\Debug\net8.0\TopicDelegate.pdb
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\obj\Debug\net8.0\TopicDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\obj\Debug\net8.0\TopicDelegate.AssemblyInfoInputs.cache
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\obj\Debug\net8.0\TopicDelegate.AssemblyInfo.cs
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\obj\Debug\net8.0\TopicDelegate.csproj.CoreCompileInputs.cache
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\obj\Debug\net8.0\TopicDelegate.dll
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\obj\Debug\net8.0\refint\TopicDelegate.dll
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\obj\Debug\net8.0\TopicDelegate.pdb
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\obj\Debug\net8.0\TopicDelegate.genruntimeconfig.cache
+C:\Sayani\Batch07SayaniSikder\TopicDelegate\obj\Debug\net8.0\ref\TopicDelegate.dll

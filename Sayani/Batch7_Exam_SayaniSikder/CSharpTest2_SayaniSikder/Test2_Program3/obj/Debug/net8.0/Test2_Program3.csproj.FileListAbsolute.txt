@@ -1,0 +1,28 @@
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\bin\Debug\net8.0\Test2_Program3.exe
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\bin\Debug\net8.0\Test2_Program3.deps.json
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\bin\Debug\net8.0\Test2_Program3.runtimeconfig.json
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\bin\Debug\net8.0\Test2_Program3.dll
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\bin\Debug\net8.0\Test2_Program3.pdb
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\obj\Debug\net8.0\Test2_Program3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\obj\Debug\net8.0\Test2_Program3.AssemblyInfoInputs.cache
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\obj\Debug\net8.0\Test2_Program3.AssemblyInfo.cs
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\obj\Debug\net8.0\Test2_Program3.csproj.CoreCompileInputs.cache
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\obj\Debug\net8.0\Test2_Program3.dll
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\obj\Debug\net8.0\refint\Test2_Program3.dll
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\obj\Debug\net8.0\Test2_Program3.pdb
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\obj\Debug\net8.0\Test2_Program3.genruntimeconfig.cache
+C:\Users\SAYANI SIKDER\source\repos\Test2_Program3\obj\Debug\net8.0\ref\Test2_Program3.dll
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\bin\Debug\net8.0\Test2_Program3.exe
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\bin\Debug\net8.0\Test2_Program3.deps.json
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\bin\Debug\net8.0\Test2_Program3.runtimeconfig.json
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\bin\Debug\net8.0\Test2_Program3.dll
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\bin\Debug\net8.0\Test2_Program3.pdb
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\obj\Debug\net8.0\Test2_Program3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\obj\Debug\net8.0\Test2_Program3.AssemblyInfoInputs.cache
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\obj\Debug\net8.0\Test2_Program3.AssemblyInfo.cs
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\obj\Debug\net8.0\Test2_Program3.csproj.CoreCompileInputs.cache
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\obj\Debug\net8.0\Test2_Program3.dll
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\obj\Debug\net8.0\refint\Test2_Program3.dll
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\obj\Debug\net8.0\Test2_Program3.pdb
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\obj\Debug\net8.0\Test2_Program3.genruntimeconfig.cache
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest2_SayaniSikder\Test2_Program3\obj\Debug\net8.0\ref\Test2_Program3.dll

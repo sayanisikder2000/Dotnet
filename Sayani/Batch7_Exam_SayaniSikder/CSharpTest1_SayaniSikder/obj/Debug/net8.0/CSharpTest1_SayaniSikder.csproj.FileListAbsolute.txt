@@ -1,0 +1,14 @@
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\obj\Debug\net8.0\CSharpTest1_SayaniSikder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\obj\Debug\net8.0\CSharpTest1_SayaniSikder.AssemblyInfoInputs.cache
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\obj\Debug\net8.0\CSharpTest1_SayaniSikder.AssemblyInfo.cs
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\obj\Debug\net8.0\CSharpTest1_SayaniSikder.csproj.CoreCompileInputs.cache
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\bin\Debug\net8.0\CSharpTest1_SayaniSikder.exe
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\bin\Debug\net8.0\CSharpTest1_SayaniSikder.deps.json
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\bin\Debug\net8.0\CSharpTest1_SayaniSikder.runtimeconfig.json
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\bin\Debug\net8.0\CSharpTest1_SayaniSikder.dll
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\bin\Debug\net8.0\CSharpTest1_SayaniSikder.pdb
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\obj\Debug\net8.0\CSharpTest1_SayaniSikder.dll
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\obj\Debug\net8.0\refint\CSharpTest1_SayaniSikder.dll
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\obj\Debug\net8.0\CSharpTest1_SayaniSikder.pdb
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\obj\Debug\net8.0\CSharpTest1_SayaniSikder.genruntimeconfig.cache
+C:\Sayani\Batch7_Exam_SayaniSikder\CSharpTest1_SayaniSikder\obj\Debug\net8.0\ref\CSharpTest1_SayaniSikder.dll
